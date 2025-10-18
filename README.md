@@ -26,9 +26,7 @@
 ### Installation
 
 1. **Clone or navigate to the repository:**
-   ```bash
-   cd /home/prajwal/Documents/questgpt
-   ```
+   
 
 2. **Install dependencies:**
    ```bash
